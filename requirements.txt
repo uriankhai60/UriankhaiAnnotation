@@ -1,0 +1,9 @@
+git+https://github.com/huggingface/diffusers.git
+transformers
+protobuf
+mediapipe
+peft
+controlnet_aux
+gradio
+ultralytics
+bitsandbytes
