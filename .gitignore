@@ -1,6 +1,6 @@
 # custom
 git_convention.txt
-
+backup
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

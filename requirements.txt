@@ -7,3 +7,4 @@ controlnet_aux
 gradio
 ultralytics
 bitsandbytes
+wandb
